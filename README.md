@@ -6,9 +6,9 @@
 
 ## Technical Skills
 - Python
-- C
-- HTML, CSS
 - SQL
+- Excel
+- Kotlin
 - Computer Networks
 
 ## Tools & Platforms
